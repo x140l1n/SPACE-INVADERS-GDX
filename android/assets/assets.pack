@@ -1,0 +1,75 @@
+
+assets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 0, 981
+  size: 1241, 2197
+  orig: 1241, 2197
+  offset: 0, 0
+  index: -1
+ship_enemy_boss
+  rotate: false
+  xy: 0, 517
+  size: 538, 464
+  orig: 538, 464
+  offset: 0, 0
+  index: -1
+ship_enemy
+  rotate: false
+  xy: 1241, 2728
+  size: 441, 450
+  orig: 441, 450
+  offset: 0, 0
+  index: -1
+ship_player
+  rotate: false
+  xy: 0, 85
+  size: 443, 432
+  orig: 443, 432
+  offset: 0, 0
+  index: -1
+ship_player_propulsion
+  rotate: false
+  xy: 1241, 2249
+  size: 372, 479
+  orig: 372, 479
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 538, 756
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 1682, 2953
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 0, 0
+  size: 212, 85
+  orig: 212, 85
+  offset: 0, 0
+  index: -1
+laser_enemy
+  rotate: false
+  xy: 443, 496
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+laser_player
+  rotate: false
+  xy: 1241, 2230
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
